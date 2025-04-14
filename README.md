@@ -1,6 +1,6 @@
 # Demographic-Data-Analyzer
 
-# Demographic Data Analyzer
+
 
 This project is part of the freeCodeCamp.org Python curriculum challenge. The goal is to analyze demographic data using the `pandas` library in Python. The data is based on the 1994 U.S. Census database and is provided by the UCI Machine Learning Repository.
 
